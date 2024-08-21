@@ -1,1 +1,1 @@
-# E-Learning-Platform
+# E-Learning-Platform:This website, **Shanky'Study**, is an e-learning platform designed to provide personalized and innovative educational experiences. It offers courses, resources, and tools for students and educators, emphasizing tailored learning through advanced technologies. The platform partners with industry leaders to offer accredited courses and certifications, and features user testimonials, support resources, and a newsletter for updates.
